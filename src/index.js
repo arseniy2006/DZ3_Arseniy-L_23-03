@@ -8,8 +8,3 @@ ReactDOM.render(
     </React.StrictMode>,
     document.getElementById('root')
 );
-export default {
-    plugins: [
-        // убрать плагин, если он был добавлен
-    ]
-}
